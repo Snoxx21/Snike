@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Snake",
+  "description": "A futuristic, neon-themed version of the classic Snake game. Navigate the glowing serpent to consume energy orbs, growing longer with each one. Avoid collisions with the walls and your own tail as the speed increases. Features a sleek, dark interface with vibrant, glowing visuals.",
+  "requestFramePermissions": []
+}
